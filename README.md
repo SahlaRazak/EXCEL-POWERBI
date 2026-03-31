@@ -1,4 +1,4 @@
-# COURSEERA COURSE ANALYSIS 2023
+# COURSERA COURSE ANALYSIS 2023
 
 ## Objective
    To explore and analyze Coursera course data to identify trends in ratings, difficulty, and popularity, enabling actionable insights for learners and educators."
